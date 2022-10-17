@@ -28,7 +28,7 @@
     "async-eventemitter": "0.2.2",
     "bower": "^1.7.9",
     "cookies": "^0.6.2",
-    "fakeredis": "1.0.3",
+    "fakeredis": "2.0.0",
     "formidable": "1.0.17",
     "htmlencode": "0.0.4",
     "http-status-codes": "^1.0.6",
