@@ -24,7 +24,7 @@
     "url": "https://github.com/pencilblue/pencilblue.git"
   },
   "dependencies": {
-    "async": "1.5.2",
+    "async": "3.2.4",
     "async-eventemitter": "0.2.2",
     "bower": "^1.7.9",
     "cookies": "^0.6.2",
