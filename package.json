@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "async": "3.2.4",
-    "async-eventemitter": "0.2.2",
+    "async-eventemitter": "0.2.4",
     "bower": "^1.7.9",
     "cookies": "^0.8.0",
     "fakeredis": "2.0.0",
