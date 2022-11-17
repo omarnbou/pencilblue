@@ -35,7 +35,7 @@
     "locale": "^0.1.0",
     "lodash": "^4.17.2",
     "mime": "^3.0.0",
-    "mongodb": "4.11.0",
+    "mongodb": "4.12.0",
     "node.extend": "2.0.2",
     "nodemailer": "6.8.0",
     "npm": "9.1.2",
