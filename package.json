@@ -37,7 +37,7 @@
     "mime": "^3.0.0",
     "mongodb": "5.4.0",
     "node.extend": "2.0.2",
-    "nodemailer": "6.9.1",
+    "nodemailer": "6.9.2",
     "npm": "9.6.6",
     "redis": "^4.3.1",
     "sanitize-html": "2.10.0",
