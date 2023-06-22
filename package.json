@@ -40,7 +40,7 @@
     "nodemailer": "6.9.3",
     "npm": "9.7.1",
     "redis": "^4.3.1",
-    "sanitize-html": "2.10.0",
+    "sanitize-html": "2.11.0",
     "semver": "7.5.2",
     "uuid": "^9.0.0",
     "winston": "^3.8.2"
