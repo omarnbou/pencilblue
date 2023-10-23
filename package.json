@@ -36,7 +36,7 @@
     "lodash": "^4.17.2",
     "mime": "^3.0.0",
     "mongodb": "6.2.0",
-    "node.extend": "2.0.2",
+    "node.extend": "2.0.3",
     "nodemailer": "6.9.7",
     "npm": "10.2.1",
     "redis": "^4.3.1",
