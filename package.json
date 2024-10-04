@@ -38,7 +38,7 @@
     "mongodb": "6.9.0",
     "node.extend": "2.0.3",
     "nodemailer": "6.9.15",
-    "npm": "10.8.3",
+    "npm": "10.9.0",
     "redis": "^4.3.1",
     "sanitize-html": "2.13.0",
     "semver": "7.6.3",
